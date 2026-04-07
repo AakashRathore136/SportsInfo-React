@@ -32,7 +32,6 @@ The project demonstrates component-based architecture, state management, and res
 
 ## Project Structure
 
-```id="5gk2nd"
 SportsInfo/
 │── src/
 │   ├── components/
@@ -92,5 +91,10 @@ npm start
 
 Aakash Rathore
 GitHub: https://github.com/AakashRathore136
+
+
+## Host Site
+
+https://sports-info-react.vercel.app/
 
 ---
